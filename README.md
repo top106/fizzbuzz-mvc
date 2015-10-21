@@ -6,4 +6,5 @@ It is created to demostrate how to use git to my friends and show them how MVC s
 nodejs is not needed since everything including tests run on browser.
 
 
-testtesetsetsetasdahsdasfhajhkjkl;asda
+testtesetsetsetasdahsdasfhajhkjkl;asdaasdghkfsdgjkl
+ok edit 2
